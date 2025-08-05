@@ -1,0 +1,11 @@
+# Ignore everything by default
+/*
+
+# Don't ignore .gitignore in this case
+!.gitignore
+
+# Track the root README.md
+!README.md
+
+# Track .gitkeep files in any subfolder
+!**/.gitkeep
